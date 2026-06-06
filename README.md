@@ -1,5 +1,10 @@
 Curnax
 
+English | "简体中文" (README.zh-CN.md)
+
+«Manage assets once. Deliver everywhere.»
+
+Curnax is an open-source media asset platform that helps you manage images, videos and files through a unified storage and delivery layer.
 «Manage assets once. Deliver everywhere.»
 
 Curnax is an open-source media asset platform that helps you manage images, videos and files through a unified storage and delivery layer.
